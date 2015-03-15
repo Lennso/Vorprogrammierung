@@ -1,0 +1,13 @@
+{
+    "name": "caesargustav/vorprogrammierung",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ph",
+            "email": "ph@wacg.de"
+        }
+    ],
+    "require": {
+        "league/plates": "~3.1"
+    }
+}

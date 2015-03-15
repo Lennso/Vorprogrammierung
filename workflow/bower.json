@@ -1,0 +1,28 @@
+{
+  "name": "WacgMauveS3",
+  "version": "0.1.0",
+  "authors": [
+    "Patrick Heller"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/CaesarGustav/Workflow",
+  "private": true,
+  "main": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "slick-carousel": "~1.4.1",
+    "csstyle": "~1.3.1",
+    "inuit-normalize": "~3.0.2",
+    "inuit-page": "~0.2.1",
+    "fancybox": "~2.1.5"
+  },
+  "scripts": {
+    "postinstall": "grunt build"
+  }
+}

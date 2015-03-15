@@ -1,0 +1,98 @@
+//----------------------------------------------------------------
+// EXAMPLE CONTENTS
+//----------------------------------------------------------------
+//
+// SETTINGS
+// Global...............Globally-available variables and config.
+//
+// TOOLS
+// Mixins...............Useful mixins.
+//
+// GENERIC
+// Normalize.css........A level playing field.
+// Box-sizing...........Better default `box-sizing`.
+//
+// BASE
+// Headings.............H1–H6 styles.
+//
+// OBJECTS
+// Wrappers.............Wrapping and constraining elements.
+//
+// COMPONENTS
+// Page-head............The main page header.
+// Page-foot............The main page footer.
+// Buttons..............Button elements.
+//
+// TRUMPS
+// Text.................Text helpers.
+
+
+//----------------------------------------------------------------
+// Settings
+//----------------------------------------------------------------
+//
+// Global variables, site-wide settings, config switches, etc.
+
+$inuit-base-font-size: 16px;
+$inuit-base-line-height: 18px;
+$inuit-base-background-color: #fff;
+$inuit-base-text-color: #333;
+
+//----------------------------------------------------------------
+// Tools
+//----------------------------------------------------------------
+//
+// Site-wide mixins and functions.
+//
+
+// A nice tool to nest styles in a BEM-like syntax
+// http://www.csstyle.io/
+@import "../../components/csstyle/csstyle";
+
+//----------------------------------------------------------------
+// Generic
+//----------------------------------------------------------------
+//
+// Low-specificity, far-reaching rulesets (e.g. resets).
+//
+@import "../../components/inuit-normalize/generic.normalize";
+
+//----------------------------------------------------------------
+// Base
+//----------------------------------------------------------------
+//
+// Unclassed HTML elements (e.g. a {}, blockquote {}, address {}).
+//
+
+// The inuitcss page module is a very high-level module which styles
+// very basic, global, page-level aspects such at the project’s
+// base font-size and line-height.
+@import "../../components/inuit-page/base.page";
+
+//----------------------------------------------------------------
+// Helper classes
+//----------------------------------------------------------------
+//
+// Simple classes helpers (e.g. .fullheight {}).
+//
+
+//----------------------------------------------------------------
+// Objects
+//----------------------------------------------------------------
+//
+// Objects, abstractions, and design patterns (e.g. .media {}).
+//
+
+//----------------------------------------------------------------
+// Components / UI
+//----------------------------------------------------------------
+//
+// Discrete, complete chunks of UI (e.g. .carousel {}).
+//
+
+//----------------------------------------------------------------
+// Trumps / Overrides
+//----------------------------------------------------------------
+//
+// Discrete, complete chunks of UI (e.g. .carousel {}).
+//

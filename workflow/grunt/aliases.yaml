@@ -1,0 +1,10 @@
+default:
+  description: 'Default Task'
+  tasks:
+    - 'build'
+    - 'watch'
+build:
+  description: 'Default Task'
+  tasks:
+    - 'wiredep'
+    - 'sass'
