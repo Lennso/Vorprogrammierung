@@ -6,4 +6,4 @@ workflow/Application
 workflow/node_modules
 public/components
 public/theme/dist
-.sass-cache
+workflow/.sass-cache
