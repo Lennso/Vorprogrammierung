@@ -2,4 +2,5 @@
 
 <?php $this->start('main') ?>
     <h1>Produkte</h1>
+    <?= var_dump($products); ?>
 <?php $this->stop() ?>

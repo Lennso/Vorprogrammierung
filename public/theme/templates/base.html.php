@@ -11,15 +11,13 @@
     <link rel="stylesheet" href="/theme/dist/main.css" />
 </head>
 <body>
-    <section class="section" role="main">
-        <?=$this->section('main')?>
-    </section>
+    <?=$this->section('main')?>
 
     <!-- bower:js -->
     <script src="/components/jquery/dist/jquery.js"></script>
     <script src="/components/slick-carousel/slick/slick.min.js"></script>
     <!-- endbower -->
-    <script src="/theme/dist/main"></script>
+    <script src="/theme/dist/main,js"></script>
 
 </body>
 </html>

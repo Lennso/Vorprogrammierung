@@ -6,11 +6,11 @@
       "image": "img/medikament.jpg",
       "size": "10",
       "pzn": "03227112",
-      "basic_price": "0,60",
-      "price_per": "1 St",
+      "basic_price": "0,60 €",
+      "price_per": "1",
       "availability": "1",
-      "price": "5,95",
-      "AVP": "8,93"
+      "price": "5,95 €",
+      "avp": "8,93 €"
     },
     {
       "name": "ASPIRIN COMPLEX Btl.m. Gran.z.Herst.e.Susp.z.Einn.",
@@ -18,11 +18,11 @@
       "image": "img/medikament.jpg",
       "size": "10",
       "pzn": "03227112",
-      "basic_price": "0,60",
-      "price_per": "1 St",
+      "basic_price": "0,60 €",
+      "price_per": "1",
       "availability": "1",
-      "price": "5,95",
-      "AVP": "8,93"
+      "price": "5,95 €",
+      "avp": "8,93 €"
     },
     {
       "name": "ASPIRIN COMPLEX Btl.m. Gran.z.Herst.e.Susp.z.Einn.",
@@ -30,11 +30,32 @@
       "image": "img/medikament.jpg",
       "size": "10",
       "pzn": "03227112",
-      "basic_price": "0,60",
-      "price_per": "1 St",
+      "basic_price": "0,60 €",
+      "price_per": "1",
       "availability": "1",
-      "price": "5,95",
-      "AVP": "8,93"
+      "price": "5,95 €",
+      "avp": "8,93 €"
     }
+  ],
+  "mainnav": [
+    "Alle Artikel",
+    "Marken",
+    "Ratgeber",
+    "Erkältung",
+    "Sparaktionen"
+  ],
+  "categorynav": [
+    "Angebote",
+    "Arzneimittel",
+    "Beauty",
+    "Diabetiker",
+    "Ernährung"
+  ],
+  "footernav": [
+    "Beratung",
+    "Medikamentencheck",
+    "AGB",
+    "Impressum",
+    "Datenschutz"
   ]
 }
