@@ -27,7 +27,7 @@
             <ul class="product-list">
                 <? foreach ($products as $product): ?>
                     <li class="product --list">
-                        <img class="product__image" src="/theme/<?= $product["image"] ?>" alt=""/>
+                        <img class="product__image" src="<?= $product["image"] ?>" alt=""/>
                         <h3 class="product__title"><?= $product["name"] ?></h3>
                         <div class="product__manufacturer">
                             <?= $product["company"] ?>

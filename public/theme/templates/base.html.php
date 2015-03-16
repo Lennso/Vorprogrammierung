@@ -17,7 +17,7 @@
     <script src="/components/jquery/dist/jquery.js"></script>
     <script src="/components/slick-carousel/slick/slick.min.js"></script>
     <!-- endbower -->
-    <script src="/theme/dist/main,js"></script>
+    <script src="/theme/dist/main.js"></script>
 
 </body>
 </html>

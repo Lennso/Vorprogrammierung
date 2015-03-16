@@ -3,7 +3,7 @@
     {
       "name": "ASPIRIN COMPLEX Btl.m. Gran.z.Herst.e.Susp.z.Einn.",
       "company": "Bayer Vital GmbH",
-      "image": "img/medikament.jpg",
+      "image": "/theme/img/medikament.jpg",
       "size": "10",
       "pzn": "03227112",
       "basic_price": "0,60 €",
@@ -15,7 +15,7 @@
     {
       "name": "ASPIRIN COMPLEX Btl.m. Gran.z.Herst.e.Susp.z.Einn.",
       "company": "Bayer Vital GmbH",
-      "image": "img/medikament.jpg",
+      "image": "/theme/img/medikament.jpg",
       "size": "10",
       "pzn": "03227112",
       "basic_price": "0,60 €",
@@ -27,7 +27,7 @@
     {
       "name": "ASPIRIN COMPLEX Btl.m. Gran.z.Herst.e.Susp.z.Einn.",
       "company": "Bayer Vital GmbH",
-      "image": "img/medikament.jpg",
+      "image": "/theme/img/medikament.jpg",
       "size": "10",
       "pzn": "03227112",
       "basic_price": "0,60 €",
